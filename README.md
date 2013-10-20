@@ -1,6 +1,8 @@
 # i3 Scripts
 
-Collection of i3 scripts to be used with the i3 Tiling Window Manager.
+Collection of scripts to be used with the i3 Tiling Window Manager.
+
+**IMPORTANT:** Don't forget to make the scripts executable before you use them.  If you don't unpredictable and frustrating behavior can result!
 
 ## openShellInCurrentWorkingDirectory
 
